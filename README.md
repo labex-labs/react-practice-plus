@@ -10,8 +10,8 @@ In this course, You will practice more labs of React. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                                             | Difficulty   | URL                                                                       |
-|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | URL                                                                       |
+|---------|-------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Create Reusable React Spinner                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38353'>Start Lab</a>       |
 |      02 | 📖 Create React Email Link Component             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38354'>Start Lab</a>       |
 |      03 | 📖 Uncontrolled Textarea Element                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38365'>Start Lab</a>       |
