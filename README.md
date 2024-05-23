@@ -100,6 +100,7 @@ In this course, You will practice more labs of React. This will help you to mast
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 
