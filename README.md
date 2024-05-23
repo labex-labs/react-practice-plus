@@ -10,7 +10,7 @@ In this course, You will practice more labs of React. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                                            | Difficulty   | URL                                                                       |
+|   Index | Name                                            | Difficulty   | Practice                                                                  |
 |---------|-------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Create Reusable React Spinner                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38353'>Start Lab</a>       |
 |      02 | 📖 Create React Email Link Component             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38354'>Start Lab</a>       |
@@ -97,4 +97,9 @@ In this course, You will practice more labs of React. This will help you to mast
 |      83 | 📖 React useSet Hook                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38409'>Start Lab</a>       |
 |      84 | 📖 React useSSR Hook                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38410'>Start Lab</a>       |
 |      85 | 🎯 Develop Reactive Ecommerce Website with React | ★★☆          | <a target='_blank' href='https://labex.io/labs/67589'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 
